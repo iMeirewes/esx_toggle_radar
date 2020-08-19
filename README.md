@@ -8,6 +8,6 @@ While the radar is on:
 `/radar` will turn it off
 
 Installation:
-Create a folder called `esx_toggle_radar` and put the 2 luas inside it
-Put `esx_toggle_radar` folder inside your esx script folder
-Open your server.cfg and type `start esx_toggle_radar`
+1. Create a folder called `esx_toggle_radar` and put the 2 luas inside it
+2. Put `esx_toggle_radar` folder inside your esx script folder
+3. Open your server.cfg and add `start esx_toggle_radar`
