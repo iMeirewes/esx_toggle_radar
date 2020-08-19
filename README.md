@@ -12,4 +12,4 @@ Installation:
 2. Put `esx_toggle_radar` folder inside your esx script folder
 3. Open your server.cfg and add `start esx_toggle_radar`
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/82j5k0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+Showcase: https://streamable.com/e/82j5k0
